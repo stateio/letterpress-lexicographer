@@ -52,3 +52,9 @@ Example
 ```
 
 ![After](http://blog.ontoillogical.com/assets/images/letterpress/after.png)
+
+Warning
+-------
+This should be considered experimental software!  We are not liable for any damage to your equipment when using this software.
+
+Please be advised that the words will be permanently added to your letterpress dictionary.  If you want to reset the game to the regular state, you can just reinstall the app.
