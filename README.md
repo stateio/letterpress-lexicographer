@@ -37,7 +37,7 @@ Usage
 Example
 -------
 
-![Before](http://blog.ontoillogical.com/assets/images/letterpress/before.png)
+![Before](http://finite.state.io/assets/images/letterpress/before.png)
 
 ```
 ./letterpress-lexicographer.rb
@@ -52,7 +52,7 @@ Example
  [+] Successfully added word szug.  You can play it now!
 ```
 
-![After](http://blog.ontoillogical.com/assets/images/letterpress/after.png)
+![After](http://finite.state.io/assets/images/letterpress/after.png)
 
 Warning
 -------
