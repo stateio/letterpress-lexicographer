@@ -3,7 +3,7 @@ letterpress-lexicographer
 
 This app allows you to add any words you want to the Letterpress dictionary.  Never lose again!
 
-No jailbreak required!
+No jailbreak required.  You can find more details [here](http://finite.state.io/blog/2012/11/09/hacking-letterpress/).
 
 Setup
 -------------
@@ -40,6 +40,7 @@ Example
 ![Before](http://blog.ontoillogical.com/assets/images/letterpress/before.png)
 
 ```
+./letterpress-lexicographer.rb
  [*] Connecting to iDevice
  [*] Connected to iDevice. UDID:REDACTED
  [*] Accessing Letterpress app
@@ -55,6 +56,6 @@ Example
 
 Warning
 -------
-This should be considered experimental software!  We are not liable for any damage to your equipment when using this software.
+Please be advised that the words will be permanently added to your letterpress dictionary.  If you want to reset the game to the regular state, you will have to reinstall Letterpress.
 
-Please be advised that the words will be permanently added to your letterpress dictionary.  If you want to reset the game to the regular state, you can just reinstall the app.
+This software modifies application files on your iDevice.  It should be considered experimental.  Use at your own risk.
