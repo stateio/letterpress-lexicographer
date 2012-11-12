@@ -1,6 +1,8 @@
 letterpress-lexicographer
 =========================
 
+**Some users have been reporting issues with iOS 6.0.1.  If you are using 6.0.1, let me know if you do or don't have problems [here](https://github.com/stateio/letterpress-lexicographer/issues/1)**
+
 This app allows you to add any words you want to the Letterpress dictionary.  Never lose again!
 
 No jailbreak required.  You can find more details [here](http://finite.state.io/blog/2012/11/09/hacking-letterpress/).
@@ -11,7 +13,7 @@ You'll need an iPhone or iPad with Letterpress (https://itunes.apple.com/ca/app/
 
 ### Install libimobiledevice (http://www.libimobiledevice.org/).  
 
-Make sure that you get the latest unstable version (1.1.4)
+Make sure that you get the  latest unstable version (1.1.4)
 
 On OS X
 `brew install libimobiledevice --HEAD`
